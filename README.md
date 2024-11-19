@@ -1,5 +1,3 @@
-# Team D - *EduBuddy*
-
 # EduBuddy Android App - Iteration 3 (May 10, 2022)
 
 This is an Android app that allow user to create and edit their account. User can also search for tutors based on
